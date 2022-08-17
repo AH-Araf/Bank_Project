@@ -11,7 +11,7 @@ document.getElementById('btn-submit').addEventListener('click',function(){
         //console.log(password);
     
     //step-4: verify email & password
-        if((email === 'arafhussain11@gmail.com' && password === 'araf321') || (email==='program@gmail.com' && password === 'program321') || (email==='abc@gmail.com' && password === 'abc321')){
+        if((email === 'arafhussain11@gmail.com' && password === 'araf321') || (email==='program@gmail.com' && password === 'program321') || (email==='abc@gmail.com' && password === 'abc321') || (email==='ttahmina162@gmail.com' && password === 'tahmina#321')){
             window.location.href= 'bank.html';
         }
         else{
